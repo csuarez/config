@@ -1,2 +1,4 @@
 theme = "Monokai Pro"
 shell-integration-features = true
+font-thicken=true
+
